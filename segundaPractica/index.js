@@ -1,4 +1,4 @@
-var filtros = ['sin animacion','magic','twisterInDown','swap','puffIn','puffOut','vanishIn','openDownLeft','openDownRightReturn','openDownLeftOut','perspectiveDown','perspectiveUp','perspectiveLeft','rotateDown','swashOut','boingInUp','spaceInLeft'];
+var filtros = ['sinAnimacion','magic','twisterInDown','swap','puffIn','puffOut','vanishIn','openDownLeft','openDownRightReturn','openDownLeftOut','perspectiveDown','perspectiveUp','perspectiveLeft','rotateDown','swashOut','boingInUp','spaceInLeft'];
 
 var filtro = document.getElementById("filtro");
 for(var i = 0; i<filtros.length; i++){
