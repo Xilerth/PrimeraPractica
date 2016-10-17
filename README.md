@@ -1,3 +1,0 @@
-"# InTurn" 
-"# PrimeraPractica" 
-# PrimeraPractica
