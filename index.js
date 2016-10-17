@@ -1,3 +1,3 @@
 function cambiarFoto(e){
-  alert(e.id);
+document.getElementById(e.id).classList.toggle("activado");
 }
