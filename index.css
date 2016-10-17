@@ -1,6 +1,6 @@
-div>img:nth-child(0){
-  width:50px;
+.activado{
+  display:block;
 }
-div>img:nth-child(1){
-  width:150px;
+.imagen{
+  display:none;
 }
