@@ -4,7 +4,7 @@ var filtros = ['original','_1977', 'aden', 'brooklyn', 'clarendon', 'earlybird',
      'slumber', 'toaster', 'walden', 'willow', 'xpro2'];
 
 var filtro = document.getElementById("filtro");
-for(var i = 0; i>filtros.length; i++){
+for(var i = 0; i<filtros.length; i++){
   var x = document.createElement("OPTION");
       x.setAttribute("value", filtros[i]);
   x.appendChild(document.createTextNode(filtros[i]));
