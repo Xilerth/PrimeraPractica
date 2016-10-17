@@ -1,6 +1,4 @@
-body{
-  margin: auto;
-}
-img{
-  margin: auto;
+.centrado{
+  display:flex;
+  justify-content: center;
 }
