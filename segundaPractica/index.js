@@ -8,6 +8,6 @@ for(var i = 0; i<filtros.length; i++){
   document.getElementById("filtro").appendChild(x);
 }
 function cambio(e){
-  document.getElementById("imagen1").className = "";
+  document.getElementById("imagen1").className = "magictime";
   document.getElementById("imagen1").classList.add(e.value);
 }
