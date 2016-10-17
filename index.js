@@ -1,3 +1,4 @@
-function cambiarFoto(e){
-document.getElementById(e.id).classList.toggle("desactivado");
+
+function cambio(e){
+  document.getElementById("imagen1").classList.toggle(e.value);
 }
